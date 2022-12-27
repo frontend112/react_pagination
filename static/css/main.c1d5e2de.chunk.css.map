@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Pagination/Pagination.scss"],"names":[],"mappings":"AAAA,YACE,YAAa,CACb,eAAgB,CAChB,SAAU,CACX,mBAGC,UAAW,CACX,wBAAyB","file":"main.c1d5e2de.chunk.css","sourcesContent":[".Pagination {\n  display: flex;\n  list-style: none;\n  padding: 0;\n}\n\n.active > .page-link {\n  color: #fff;\n  background-color: #007bff;\n}\n"]}
